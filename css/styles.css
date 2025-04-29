@@ -127,6 +127,8 @@ button {
   background-color: #2e2f42;
   padding: 188px 0;
   text-align: center;
+  background-image: url(../images/people-office.png);
+  background-size: cover;
 }
 
 .main-block-item {
