@@ -426,12 +426,10 @@ button {
   display: flex;
   align-items: baseline;
 }
-.container {
+.footer-socials-media {
   margin-right: 120px;
 }
-.footer-socials-media {
-}
-.container {
+.footer-logo-text {
   margin-right: 120px;
 }
 .footer-socials-text {
